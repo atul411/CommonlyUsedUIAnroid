@@ -3,7 +3,7 @@
  * once onClaim Callback has come update the icon, disable the draggable and change button text.
  */
 @Composable
-fun ShowButton() {
+fun ShowSwipeButton() {
     Row(
         modifier = Modifier
             .fillMaxWidth()
