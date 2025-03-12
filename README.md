@@ -1,6 +1,6 @@
 # CommonlyUsedUIAnroid
 
-### following ui component can be made using ShowSwipeButton Compose method
+### 1. Following ui component can be made using ShowSwipeButton Compose method
 
 ## Demo UI
 
